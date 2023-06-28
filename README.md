@@ -1,2 +1,2 @@
-# Marketing-Management-Database-Project
+# Marketing Management Database Project
 This project was performed by a team of 8 students as a condition for graduating two courses of the 2nd Semester, Database System and Visual Programming. I was responsible for connecting the database from Microsoft SQL Server to the C# Visual Studio program that was both created by my team. I'm also responsible for UI design of the program to bring a good User Experience. 
