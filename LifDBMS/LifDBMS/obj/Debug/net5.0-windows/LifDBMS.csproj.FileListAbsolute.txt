@@ -1,0 +1,96 @@
+E:\VS c#\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\LifDBMS.exe
+E:\VS c#\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\LifDBMS.deps.json
+E:\VS c#\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\LifDBMS.runtimeconfig.json
+E:\VS c#\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\LifDBMS.runtimeconfig.dev.json
+E:\VS c#\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\LifDBMS.dll
+E:\VS c#\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\ref\LifDBMS.dll
+E:\VS c#\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\LifDBMS.pdb
+E:\VS c#\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\VS c#\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\VS c#\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\VS c#\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\VS c#\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\VS c#\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\VS c#\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.csproj.AssemblyReference.cache
+E:\VS c#\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.FormDashboard.resources
+E:\VS c#\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.FormLogin.resources
+E:\VS c#\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.csproj.GenerateResource.cache
+E:\VS c#\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS c#\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.AssemblyInfoInputs.cache
+E:\VS c#\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.AssemblyInfo.cs
+E:\VS c#\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.csproj.CoreCompileInputs.cache
+E:\VS c#\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.csproj.CopyComplete
+E:\VS c#\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.dll
+E:\VS c#\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\ref\LifDBMS.dll
+E:\VS c#\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.pdb
+E:\VS c#\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.genruntimeconfig.cache
+E:\VS c#\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.Project.resources
+E:\VS c#\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.newProject.resources
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\LifDBMS.exe
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\LifDBMS.deps.json
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\LifDBMS.runtimeconfig.json
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\LifDBMS.runtimeconfig.dev.json
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\LifDBMS.dll
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\LifDBMS.pdb
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.csproj.AssemblyReference.cache
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.FormDashboard.resources
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.FormLogin.resources
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.newProject.resources
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.Project.resources
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.csproj.GenerateResource.cache
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.AssemblyInfoInputs.cache
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.AssemblyInfo.cs
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.csproj.CoreCompileInputs.cache
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.csproj.CopyComplete
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.dll
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\refint\LifDBMS.dll
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.pdb
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.genruntimeconfig.cache
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\ref\LifDBMS.dll
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.Properties.Resources.resources
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\LifDBMS.exe
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\LifDBMS.deps.json
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\LifDBMS.runtimeconfig.json
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\LifDBMS.runtimeconfig.dev.json
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\LifDBMS.dll
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\ref\LifDBMS.dll
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\LifDBMS.pdb
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.csproj.AssemblyReference.cache
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.FormDashboard.resources
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.FormLogin.resources
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.newProject.resources
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.Project.resources
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.Properties.Resources.resources
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.csproj.GenerateResource.cache
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.AssemblyInfoInputs.cache
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.AssemblyInfo.cs
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.csproj.CoreCompileInputs.cache
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.csproj.CopyComplete
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.dll
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\ref\LifDBMS.dll
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.pdb
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.genruntimeconfig.cache
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.Dashboard.resources
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.Meetings.resources
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.moms.resources
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.Proposals.resources
+D:\User\Downloads\LifDBMS V3\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.Transactions.resources
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.Dashboard.resources
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.Meetings.resources
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.moms.resources
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.Proposals.resources
+C:\Users\kapte\Documents\KULIAH\Semester 2\IS 341 Database Systems\LifDBMS\LifDBMS\obj\Debug\net5.0-windows\LifDBMS.Transactions.resources
